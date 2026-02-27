@@ -38,6 +38,8 @@ This project evaluates:
 MS Business Analytics | Redlands School of Business & Society 
 
 [WorldCup_Data.ipynb](https://github.com/user-attachments/files/25590038/WorldCup_Data.ipynb)
+
 [WorldCup_Presentation.pdf](https://github.com/user-attachments/files/25596218/WorldCup_Presentation.pdf)
+
 <img width="1610" height="1052" alt="SoFi_Stadium_Map" src="https://github.com/user-attachments/assets/0e52b210-3e46-4625-96f9-17cf19da8400" />
 <img width="1610" height="1052" alt="Levis_Stadium_Map" src="https://github.com/user-attachments/assets/94d9be2b-63ce-484e-bf76-b33687c8f2da" />
