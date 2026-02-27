@@ -18,9 +18,9 @@ This project evaluates:
 - Public datasets (Kaggle US Accidents, U.S. Census Bureau Population data)
 
 ## Key Insights
-- Certain host cities show higher accident density near stadium areas
+- SoFi Stadium in Los Angeles shows higher accident density 
 - Weather conditions strongly influence accident frequency
-- GIS buffer analysis reveals high-risk transportation clusters
+- GIS buffer analysis shows high-risk transportation clusters
 
 ## Files in This Repository
 - `WorldCup_Data.ipynb` – Full data analysis and visualization notebook
