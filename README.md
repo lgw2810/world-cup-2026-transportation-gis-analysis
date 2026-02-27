@@ -1,7 +1,7 @@
 # World Cup 2026 – Transportation & GIS Risk Analysis
 
 ## Project Overview
-This project analyzes transportation risk, accident density, and population patterns around 2026 FIFA World Cup host stadiums using Python and ArcGIS Pro.
+This project analyzes transportation risk, accident density, and population patterns around 2026 FIFA World Cup host stadiums in California, using Python and ArcGIS Pro.
 
 The goal is to support large-scale event planning, public safety analysis, and infrastructure decision-making.
 
@@ -24,6 +24,7 @@ This project evaluates:
 
 ## Files in This Repository
 - `WorldCup_Data.ipynb` – Full data analysis and visualization notebook
+- `SoFi_Stadium_Map.png` and `Levis_Stadium_Map.png` – GIS visualizations of 5-mile buffer zones highlighting accident density and transportation risk surrounding each stadium.
 - `WorldCup_Presentation.pdf` – Executive summary presentation
 
 ## Future Improvements
