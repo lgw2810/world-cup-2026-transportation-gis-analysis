@@ -22,7 +22,7 @@ This project evaluates:
 - Weather conditions strongly influence accident frequency
 - GIS buffer analysis shows high-risk transportation clusters
 
-## Files in This Repository
+## Files in this Repository
 - `WorldCup_Data.ipynb` – Full data analysis and visualization notebook
 - `SoFi_Stadium_Map.png` and `Levis_Stadium_Map.png` – GIS visualizations of 5-mile buffer zones highlighting accident density and transportation risk surrounding each stadium.
 - `WorldCup_Presentation.pdf` – Executive summary presentation
