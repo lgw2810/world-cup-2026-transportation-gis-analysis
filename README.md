@@ -13,9 +13,9 @@ This project evaluates:
 - Population density impact on transportation safety
 
 ## Tools & Technologies
-- Python (Pandas, Matplotlib)
-- ArcGIS Pro (Spatial Analysis, Buffering, Duck DB, Parquet, Linear Regression, Mapping)
-- Public datasets (Kaggle US Accidents, U.S. Census Bureau Population data)
+- Python (Pandas, Matplotlib, Duck DB, Parquet, Linear Regression)
+- ArcGIS Pro (Spatial Analysis, Buffering, Mapping)
+- Public datasets (Kaggle - US Accidents, U.S. Census Bureau - Population data)
 
 ## Key Insights
 - SoFi Stadium in Los Angeles shows higher accident density 
